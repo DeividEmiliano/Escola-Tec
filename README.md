@@ -1,4 +1,5 @@
 Tecnologias
+
 As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
 Java 17
