@@ -18,15 +18,15 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 Foi desenvolvido um CRUD (Create, Read, Update e Delete) utilizando o banco de dados MySQL e o Flyway como ferramenta de Migrations da API.
 
-Validações utilizando o Bean Validation.
+* Validações utilizando o Bean Validation.
 
-Paginação e ordenação dos dados da API.
+* Paginação e ordenação dos dados da API.
 
-Padronização dos retornos dos controllers, utilizando os códigos HTTP corretamente.
+* Padronização dos retornos dos controllers, utilizando os códigos HTTP corretamente.
 
-Tratamento de erros.
+* Tratamento de erros.
 
-Controle de acesso com JWT.
+* Controle de acesso com JWT.
 
-Foi adicionado o módulo Spring Security, implementando um mecanismo de autenticação na API.
+* Foi adicionado o módulo Spring Security, implementando um mecanismo de autenticação na API.
 
