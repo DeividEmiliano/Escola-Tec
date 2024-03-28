@@ -1,6 +1,6 @@
 #### Tecnologias
 
-##### As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
+As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
 * Java 17
 * Spring Boot 3
