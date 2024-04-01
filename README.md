@@ -10,6 +10,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 * Flyway
 * Lombok
 * Spring Security
+* Spring Docs
 * Insomnia
 * Git e Github
 
@@ -29,4 +30,6 @@ Foi desenvolvido um CRUD (Create, Read, Update e Delete) utilizando o banco de d
 * Controle de acesso com JWT.
 
 * Foi adicionado o módulo Spring Security, implementando um mecanismo de autenticação na API.
+
+* Aplicação documentada com Spring Docs
 
